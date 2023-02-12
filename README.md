@@ -1,3 +1,3 @@
-## Python ML/DS libraries
+## Python ML/DS
 
-Overviews of essential python libraries used in data science/data visualization/machine learning.
+Collection of projects in data analysis and machine learning.
